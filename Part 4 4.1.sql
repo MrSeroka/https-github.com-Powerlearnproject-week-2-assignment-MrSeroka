@@ -1,0 +1,6 @@
+CREATE TABLE Income (
+	income_id INT PRIMARY KEY AUTO_INCREMENT,
+	amount DECIMAL(10,2) NOT NULL,
+    date DATE NOT NULL,
+    source VARCHAR (50) NOT NULL
+);

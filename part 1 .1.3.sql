@@ -1,0 +1,49 @@
+/*
+-- Query: SELECT
+	date
+FROM 
+    expenses
+WHERE 
+	date BETWEEN '2021-01-01' AND '2024-12-15'
+ORDER BY
+	date
+LIMIT 0, 1000
+
+-- Date: 2024-07-04 10:28
+*/
+INSERT INTO `` (`date`) VALUES ('2021-01-27');
+INSERT INTO `` (`date`) VALUES ('2021-04-01');
+INSERT INTO `` (`date`) VALUES ('2021-04-12');
+INSERT INTO `` (`date`) VALUES ('2021-05-09');
+INSERT INTO `` (`date`) VALUES ('2021-05-31');
+INSERT INTO `` (`date`) VALUES ('2021-09-04');
+INSERT INTO `` (`date`) VALUES ('2021-11-08');
+INSERT INTO `` (`date`) VALUES ('2021-12-24');
+INSERT INTO `` (`date`) VALUES ('2022-01-26');
+INSERT INTO `` (`date`) VALUES ('2022-02-04');
+INSERT INTO `` (`date`) VALUES ('2022-02-25');
+INSERT INTO `` (`date`) VALUES ('2022-02-28');
+INSERT INTO `` (`date`) VALUES ('2022-03-19');
+INSERT INTO `` (`date`) VALUES ('2022-05-09');
+INSERT INTO `` (`date`) VALUES ('2022-07-04');
+INSERT INTO `` (`date`) VALUES ('2022-07-05');
+INSERT INTO `` (`date`) VALUES ('2022-07-25');
+INSERT INTO `` (`date`) VALUES ('2022-08-21');
+INSERT INTO `` (`date`) VALUES ('2022-09-28');
+INSERT INTO `` (`date`) VALUES ('2022-11-22');
+INSERT INTO `` (`date`) VALUES ('2022-12-03');
+INSERT INTO `` (`date`) VALUES ('2022-12-13');
+INSERT INTO `` (`date`) VALUES ('2022-12-19');
+INSERT INTO `` (`date`) VALUES ('2023-01-05');
+INSERT INTO `` (`date`) VALUES ('2023-02-07');
+INSERT INTO `` (`date`) VALUES ('2023-03-21');
+INSERT INTO `` (`date`) VALUES ('2023-06-14');
+INSERT INTO `` (`date`) VALUES ('2023-06-21');
+INSERT INTO `` (`date`) VALUES ('2023-09-05');
+INSERT INTO `` (`date`) VALUES ('2023-09-27');
+INSERT INTO `` (`date`) VALUES ('2023-12-29');
+INSERT INTO `` (`date`) VALUES ('2024-01-14');
+INSERT INTO `` (`date`) VALUES ('2024-02-20');
+INSERT INTO `` (`date`) VALUES ('2024-03-28');
+INSERT INTO `` (`date`) VALUES ('2024-04-24');
+INSERT INTO `` (`date`) VALUES ('2024-06-16');
